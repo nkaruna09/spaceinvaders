@@ -1,0 +1,31 @@
+Simple space invaders game coded in Java. 
+
+Credits: 
+Images: 
+https://www.spriters-resource.com/mobile/arkanoidvsspaceinvaders/sheet/115283/
+- Enemy1_1 
+- Enemy1_2
+- Enemy1_Blast
+- Enemy2_1 
+- Enemy2_2 
+- Enemy2_Blast 
+- Enemy3_1 
+- Enemy3_2 
+- Enemy3_Blast 
+- MysterySpaceShip
+- background
+
+https://www.kindpng.com/imgv/mhmwoh_space-invaders-ship-png-transparent-png/
+- ship
+
+https://interactioninstitute.org/a-poem-for-the-people-of-the-planet/
+- planet
+
+https://sonic.fandom.com/wiki/Shield#Recurring_
+- shield
+
+Text images were made on a word doc and screenshotted. 
+
+All audio files are from https://interactioninstitute.org/a-poem-for-the-people-of-the-planet/ 
+
+Created for educational purposes only. 
